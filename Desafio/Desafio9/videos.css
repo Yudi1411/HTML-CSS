@@ -1,0 +1,16 @@
+body{
+     background: linear-gradient(to right, black, green);
+    align-items: center;
+    text-align: center;
+}
+
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+h1{
+    color: aliceblue;
+}
